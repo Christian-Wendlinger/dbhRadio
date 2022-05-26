@@ -4,6 +4,8 @@ Diese Anwendung simuliert ein Radio, welches eine Lautstärke, eine Frequenz und
 
 Dazu gibt es eine GUI, welche mit JavaFX erstellt wurde, um mit dem Radio interagieren zu können.
 
+Die Main-Methode zum Starten des Programms befindet sich in der Klasse RadioApplication.
+
 
 
 ## Bedienung
