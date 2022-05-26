@@ -1,6 +1,6 @@
 # Radio Anwendung
 
-Diese Anwendung simuliert ein Radio, welches eine Lautstärke, eine Frequenz und eine Senderliste besitzt. Zusätzlich kann es ein- uns ausgeschaltet werden.
+Diese Anwendung simuliert ein Radio, welches eine Lautstärke, eine Frequenz und eine Senderliste besitzt. Zusätzlich kann es ein- und ausgeschaltet werden.
 
 Dazu gibt es eine GUI, welche mit JavaFX erstellt wurde, um mit dem Radio interagieren zu können.
 
