@@ -203,6 +203,9 @@ public class RadioController {
             String senderName = savedSenders.getSelectionModel().getSelectedItem();
             Double frequency = radio.getKnownRadioStations().get(senderName);
 
+            // Nothing selected when pressing the button or sender for some reason unknown
+            if (senderName == null || frequency == null) return;
+
             radio.setSender(senderName);
             radio.setFrequency(frequency);
 
